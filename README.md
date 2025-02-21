@@ -1,2 +1,2 @@
 # PhonicsApp
-Test of Phonics App
+This app is to help with phonics
